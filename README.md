@@ -1,6 +1,6 @@
 # Mahdi Alhakim - Software Developer and Engineer
 
-🌐 [LinkedIn](<linkedin.com/in/mahdi-alhakim-ab75731b9>) | 📧 0mahdialhakim@gmail.com
+🌐 [LinkedIn](<[https://](https://)linkedin.com/in/mahdi-alhakim-ab75731b9>) | 📧 0mahdialhakim@gmail.com
 
 ## About Me
 
@@ -46,4 +46,4 @@ Explore my GitHub for a mix of game development, AI, and web services.
 
 ## Let's Connect!
 
-I'm always open to discussing exciting projects, technology, or anything in between! Feel free to reach out on [LinkedIn](<linkedin.com/in/mahdi-alhakim-ab75731b9>) or via email at 0mahdialhakim@gmail.com.
+I'm always open to discussing exciting projects, technology, or anything in between! Feel free to reach out on [LinkedIn](<https://linkedin.com/in/mahdi-alhakim-ab75731b9>) or via email at 0mahdialhakim@gmail.com.
