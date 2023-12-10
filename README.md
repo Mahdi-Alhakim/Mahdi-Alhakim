@@ -1,6 +1,6 @@
 # Mahdi Alhakim - Software Developer and Engineer
 
-🌐 [LinkedIn](<[https://](https://)linkedin.com/in/mahdi-alhakim-ab75731b9>) | 📧 0mahdialhakim@gmail.com
+🌐 [LinkedIn](<https://linkedin.com/in/mahdi-alhakim-ab75731b9>) | 📧 0mahdialhakim@gmail.com
 
 ## About Me
 
