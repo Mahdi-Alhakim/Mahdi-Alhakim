@@ -13,7 +13,7 @@ Explore my GitHub for a mix of game development, AI, and web services.
 .
 ├─ ChessGame_withAI
 ├─ LiarsDice_ClientServer
-├─ Gymthetics
+├─ Gymthetics (Fitness App)
 ├─ Unity Dev
 │  ├─ Unity_TurnBased (Work-In-Progress)
 │  └─ Unity_TopDownShooter (Work-In-Progress)
